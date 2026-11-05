@@ -1,0 +1,24 @@
+# REFramework and other redistributables: get them from upstream, do not commit
+*.zip
+*.dll
+
+# Logs and captures
+*.log
+re2_framework_log.txt
+logs/
+captures/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# Backups
+archive/
+backups/
+
+# Editor/OS files
+.vs/
+.vscode/
+*.swp
+Thumbs.db
+desktop.ini
